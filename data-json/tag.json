@@ -1,0 +1,10 @@
+{
+    "tag": {
+        "id": 123,
+        "name": "tag name",
+        "desctipion": "tag name",
+        "slug": "tag_name",
+        "product_count": 20,
+        "parent_id": 34
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "category": {
+        "id": 123,
+        "name": "Category name",
+        "desctipion": "Category name",
+        "slug": "category_name",
+        "image_id": 567,
+        "product_count" : 20,
+        "parent_id" : 34
+    }
+}
